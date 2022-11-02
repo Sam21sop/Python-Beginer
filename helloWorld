@@ -1,0 +1,8 @@
+#Method 1st
+print("hello World!")
+
+#Method 2nd
+print('Hello World!')
+
+#Method 3rd
+print('''Hello world!''')
